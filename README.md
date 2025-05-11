@@ -4,14 +4,11 @@ I'm a 14-year-old programming enthusiast from Moscow, Russia. I love to learn ab
 
 ## 🔧 Technologies I'm Learning
 - Rust 🦀
-- Next.js ⚛️
-- C/C++ 🖥️
+- Next.js/Nuxt.js ⚛️
 - Python 🐍
-- Java ☕
-- Swift 🍏
 
 ## 🤖 My Project
-I have developed my own AI called **ksushaAI** with a 400M parameter model. It's my first step into the world of artificial intelligence, and I'm excited to keep growing in this field!
+I have a hosting (EGN)
 
 ## 🎮 My Hobbies
 In my free time, I enjoy playing:
