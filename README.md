@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexander Maximov (MaksimovAV)
 
-I'm a 15-year-old programming enthusiast from Moscow, Russia. I love to learn about different programming languages and develop my skills by working on various projects. 
+I'm a 19-year-old programming enthusiast from Moscow, Russia. I love to learn about different programming languages and develop my skills by working on various projects. 
 
 ## 🔧 Technologies I'm Learning
 - Rust 🦀
